@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4F35010133DEF8914289C0E52A44FED2057D6479",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D" : 0,
+    "4F35010133DEF8914289C0E52A44FED2057D6479" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "90F77833-FD83-4602-9661-0FF514F10F44",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D" : "",
+    "4F35010133DEF8914289C0E52A44FED2057D6479" : "Swift-Tac-Toe"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swift-Tac-Toe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift-Tac-Toe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/senghuot\/Swift-Tac-Toe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F35010133DEF8914289C0E52A44FED2057D6479"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/senghuot\/swift-playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D"
+    }
+  ]
+}

@@ -51,7 +51,7 @@ class ViewController: UIViewController {
     }
     
     private func setImageSpot(spot: Int, player: Int) {
-        var playerSpot = (player == 1) ? "x" : "o"
+        let playerSpot = (player == 1) ? "x" : "o"
         plays[spot] = player
         switch spot{
         case 1:

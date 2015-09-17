@@ -10,22 +10,26 @@
 	<string>Swift-Tac-Toe</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>4F35010133DEF8914289C0E52A44FED2057D6479</key>
+		<string>https://github.com/senghuot/Swift-Tac-Toe.git</string>
 		<key>FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D</key>
 		<string>https://github.com/senghuot/swift-playground.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Swift-Tac-Toe/Swift-Tac-Toe.xcodeproj</string>
+	<string>Swift-Tac-Toe.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>4F35010133DEF8914289C0E52A44FED2057D6479</key>
+		<string>../..</string>
 		<key>FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/senghuot/swift-playground.git</string>
+	<string>https://github.com/senghuot/Swift-Tac-Toe.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D</string>
+	<string>4F35010133DEF8914289C0E52A44FED2057D6479</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>IOS</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F35010133DEF8914289C0E52A44FED2057D6479</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift-Tac-Toe</string>
 		</dict>
 	</array>
 </dict>
