@@ -14,6 +14,7 @@
 		E6B8EFBC1BA4941500B0CF6A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6B8EFBB1BA4941500B0CF6A /* Images.xcassets */; };
 		E6B8EFBF1BA4941500B0CF6A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E6B8EFBD1BA4941500B0CF6A /* LaunchScreen.xib */; };
 		E6B8EFCB1BA4941500B0CF6A /* Swift_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B8EFCA1BA4941500B0CF6A /* Swift_Tac_ToeTests.swift */; };
+		E6BAAE311BB0C0AE0062E9D2 /* Board.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BAAE301BB0C0AE0062E9D2 /* Board.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E6B8EFC41BA4941500B0CF6A /* Swift-Tac-ToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift-Tac-ToeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6B8EFC91BA4941500B0CF6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E6B8EFCA1BA4941500B0CF6A /* Swift_Tac_ToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Tac_ToeTests.swift; sourceTree = "<group>"; };
+		E6BAAE301BB0C0AE0062E9D2 /* Board.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Board.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				E6B8EFB11BA4941500B0CF6A /* AppDelegate.swift */,
 				E6B8EFB61BA4941500B0CF6A /* ViewController.swift */,
+				E6BAAE301BB0C0AE0062E9D2 /* Board.swift */,
 				E6B8EFB81BA4941500B0CF6A /* Main.storyboard */,
 				E6B8EFBB1BA4941500B0CF6A /* Images.xcassets */,
 				E6B8EFAF1BA4941500B0CF6A /* Supporting Files */,
@@ -220,6 +223,7 @@
 			files = (
 				E6B8EFB71BA4941500B0CF6A /* ViewController.swift in Sources */,
 				E6B8EFB21BA4941500B0CF6A /* AppDelegate.swift in Sources */,
+				E6BAAE311BB0C0AE0062E9D2 /* Board.swift in Sources */,
 				E6B8EFB51BA4941500B0CF6A /* Swift_Tac_Toe.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
